@@ -9,6 +9,9 @@ Order system that utilize AWS services
 What is AWS? (Regions, AZs, Pricing Model)
 
 IAM (Identity & Access Management)
+- IAM Identity Center
+- Policy
+- Tag
 
 S3 (Object Storage)
 
