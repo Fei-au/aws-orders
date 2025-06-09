@@ -10,8 +10,18 @@ What is AWS? (Regions, AZs, Pricing Model)
 
 IAM (Identity & Access Management)
 - IAM Identity Center
-- Policy
-- Tag
+  - aws organization
+  - aws account
+  - users
+  - groups
+  - permission sets
+  - aws-cli
+- IAM User (traditional)
+  - user
+  - group
+  - role
+  - Policy
+  - Tag
 
 S3 (Object Storage)
 
