@@ -24,8 +24,14 @@ IAM (Identity & Access Management)
   - Tag
 
 S3 (Object Storage)
+--profile AdministratorAccess-767397928537
+  - general purpose bucket
+  - s3 cli cmds
+  - versions
 
 EC2 (Virtual Machines)
+  - IAM role
+
 
 Basic AWS CLI & Console usage
 
