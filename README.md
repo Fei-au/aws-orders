@@ -47,6 +47,18 @@ Use AWS CLI to interact with services.
 ✅ Week 2: Serverless Basics & Lambda
 🔸 Topics:
 AWS Lambda fundamentals
+  - Programming model
+  - Environment model
+  - permissions
+  - file systems
+  - enviroment variables
+  - versions
+  - layers
+  - response streaming
+  - scale
+  - vpc networks
+  - function urls
+  
 
 IAM roles for Lambda
 
