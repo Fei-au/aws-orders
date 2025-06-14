@@ -50,6 +50,9 @@ AWS Lambda fundamentals
   - Programming model
   - Environment model
   - permissions
+    - aws service role -> lambda
+      - policies
+  - test
   - file systems
   - enviroment variables
   - versions
@@ -57,15 +60,43 @@ AWS Lambda fundamentals
   - response streaming
   - scale
   - vpc networks
+    - subnets
+    - security group
   - function urls
-
   - s3 trigger
   - 
+
+VPC
+  - Subnets
+  - NAT gateway
+  - Internet gateway
+  - Security groups
+    - inbound
+    - outbound
+
+RDS
+  Managed RD platform
+  - RDS proxy
+  - 
+
+API Gateway
+  - API
+    - resources
+      - methods
+        - integration functions
+          - Lambda
+    - tag
+      - dev
+      - prod
+      - test
+    - grey mode deploy
   
 
 IAM roles for Lambda
 
 API Gateway + Lambda
+
+
 
 CloudWatch (logging)
 
