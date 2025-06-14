@@ -58,6 +58,9 @@ AWS Lambda fundamentals
   - scale
   - vpc networks
   - function urls
+
+  - s3 trigger
+  - 
   
 
 IAM roles for Lambda
