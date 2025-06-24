@@ -114,6 +114,7 @@ Package and deploy Lambda with dependencies.
 DynamoDB (NoSQL DB)
 
 RDS (Managed SQL DB)
+  - Blue/Green Deployments
 
 SSM Parameter Store / Secrets Manager
 
